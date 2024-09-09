@@ -1,0 +1,46 @@
+
+.top {
+    background-color: rgb(160, 162, 223);
+    height: 30em;
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-content: center;
+    width: 100%;
+}
+
+.profile {
+    width: 250px;
+    border-radius: 50%;
+    align-self: center;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(66, 15, 15);
+    font-size:4rem;
+}
+
+span.Samuel {
+    font-family: "Tomorrow", sans-serif;
+  font-weight: 800;
+  font-style: underline;
+
+}
+
+h2 {
+    color: rgb(66, 15, 15);
+    text-align: center;
+    margin-top: 10px;
+}
+
+
+.bg-body-tertiary {
+    --bs-bg-opacity: 1;
+    background-color: rgb(214, 219, 225) !important;
+}
+
+.demo {
+    padding-bottom: 30px;
+}
