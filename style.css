@@ -11,7 +11,8 @@
 }
 
 .profile {
-    width: 250px;
+    max-width: 45vw;
+    max-height:250px;
     border-radius: 50%;
     align-self: center;
 }
